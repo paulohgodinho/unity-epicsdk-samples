@@ -1,0 +1,7 @@
+﻿.idea
+*.csproj
+*.sln
+*.DotSettings.user
+Library
+Logs
+obj
