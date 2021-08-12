@@ -69,9 +69,7 @@ namespace Epic.OnlineServices
 		#elif EOS_PLATFORM_LINUX
 			"EOSSDK-Linux-Shipping.so"
 
-		#elif EOS_PLATFORM_IOS && EOS_UNITY && !EOS_EDITOR
-			"__Internal"
-		#elif EOS_PLATFORM_IOS && EOS_UNITY
+		#elif EOS_PLATFORM_IOS && EOS_UNITY && EOS_EDITOR
 			"EOSSDK"
 		#elif EOS_PLATFORM_IOS
 			"EOSSDK.framework/EOSSDK"
