@@ -1,5 +1,5 @@
 # unity-epicsdk-samples
-Samples on how to use the Epic SDK with Unity 2019 and above
+Samples on how to use the Epic SDK 1.13.1 with Unity 2019 and above
 
 Please configure the Assets/Prefabs/EpicPlatform.prefab prefab with your project data from Epic Developer Portal to properly use the samples.
 
