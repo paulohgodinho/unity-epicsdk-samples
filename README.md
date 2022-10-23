@@ -1,4 +1,8 @@
-# unity-epicsdk-samples
+# DEPRECATED
+Epic has released oficial plugins targeting unity, you should use it and follow their documentation. Keeping this repository for history preservation, it was made in a time were this info was really scarce and there was no Unity Epic SDK. 
+
+
+## unity-epicsdk-samples
 Samples on how to use the Epic SDK 1.13.1 with Unity 2019 and above
 
 Please configure the Assets/Prefabs/EpicPlatform.prefab prefab with your project data from Epic Developer Portal to properly use the samples.
